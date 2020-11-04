@@ -1,0 +1,5 @@
+FOLDER_TO_BACKUP = /home/ubuntu/Desktop/test
+WHERE_TO_BACKUP = /home/ubuntu/Desktop/dest
+DEFAULT_BACKUP_FILE = /home/ubuntu/Desktop/dest/test.bup
+WHERE_TO_RESTORE = /home/ubuntu/Desktop/restore
+DAYS = Monday tue thursday Wed fri saturday sunday
