@@ -1,2 +1,2 @@
 # fileSystem
-Implementation of temrnial fileSystem in C++
+Implementation of termnial fileSystem in C++
